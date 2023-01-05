@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Saudações
 
-Atualmente sou discente de Ciência da Computação pela Universidade Federal do Pará - 2020, e atualmente faço parte do Laboratório de Planejamento de Fármacos, da UFPA, a fim de buscar formas de inibir a proteina do _Trypanosoma cruzi_. Além disso, estou estudando atualmente GTK e CUDA e posteriormente OPENMPI.
+Atualmente sou discente de Ciência da Computação, 7º Semestre, pela Universidade Federal do Pará - 2020, e faço parte do Laboratório de Planejamento de Fármacos, da UFPA. Estou atualmente estudando e me especializando na familia Spring e na Framework Next.js
 
 
 <p align="center">
@@ -44,7 +44,11 @@ Atualmente sou discente de Ciência da Computação pela Universidade Federal do
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title = "SPRING BOOT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title = "POSTGRESQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title = "NEXT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title = "TAILWINDCSS"/></code>
 
 </br>
 

@@ -1,25 +1,8 @@
 
 
-<!--
-### Hi there 👋
-**alverad-katsuro/alverad-katsuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## Saudações
 
-Atualmente sou discente de Ciência da Computação, 7º Semestre, pela Universidade Federal do Pará - 2020, e faço parte do Laboratório de Planejamento de Fármacos, da UFPA. Estou atualmente estudando e me especializando na familia Spring e na Framework Next.js
+Meu nome é Alfredo Gabriel, formando em Ciência da Computação, fanático por tecnologia e apaixonado pelo desenvolvimento de aplicações. Desde 2019, tenho dedicado minha jornada ao aprendizado e ao desenvolvimento de uma ampla gama de projetos. Recentemente, encontrei uma área que verdadeiramente me encanta: Microsserviços. Nessa busca pelo aperfeiçoamento, escolhi a família Spring Boot em Java, juntamente com a Framework Next.js em Typescript, para criar aplicações mais interativas e envolventes para os usuários finais. Além disso, trago valiosa experiência no desenvolvimento com a linguagem Ruby, com foco especial na framework Ruby on Rails.
 
 
 <p align="center">
@@ -31,6 +14,13 @@ Atualmente sou discente de Ciência da Computação, 7º Semestre, pela Universi
 <!-- Foto talvez?
 <img width="300px" align="right" src="">
 -->
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title = "SPRING BOOT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title = "NEXT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title = "GITLAB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title = "DOCKER"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title = "MUI"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Node.js"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title = "RUBY"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" title = "RAILS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
@@ -40,17 +30,19 @@ Atualmente sou discente de Ciência da Computação, 7º Semestre, pela Universi
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title = "SPRING BOOT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title = "POSTGRESQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title = "NEXT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title = "TAILWINDCSS"/></code>
 
 </br>
+
+### Outras experiências:
+
+* Keycloak
+* JasperStudio
+* RPC
+* Traefik
+* CI/CD
 
 ## Redes Sociais:
 

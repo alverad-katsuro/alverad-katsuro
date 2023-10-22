@@ -46,9 +46,13 @@ Meu nome é Alfredo Gabriel, formando em Ciência da Computação, fanático por
 
 ## Redes Sociais:
 
-<a href="https://www.instagram.com/amgabriel1" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" target="_blank" />
+<a href="https://www.instagram.com/amgabriel1" target="_blank">
+  <img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" target="_blank" />
+</a>
 
-<a href="https://www.linkedin.com/in/alfredo-gabriel-de-sousa-oliveia/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" target="_blank" />
+<a href="https://www.linkedin.com/in/alfredo-gabriel-de-sousa-oliveia/" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" target="_blank" />
+</a>
 
 </br>
  

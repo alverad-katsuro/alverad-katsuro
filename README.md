@@ -2,7 +2,7 @@
 
 ## Saudações
 
-Meu nome é Alfredo Gabriel, formando em Ciência da Computação, fanático por tecnologia e apaixonado pelo desenvolvimento de aplicações. Desde 2019, tenho dedicado minha jornada ao aprendizado e ao desenvolvimento de uma ampla gama de projetos. Recentemente, encontrei uma área que verdadeiramente me encanta: Microsserviços. Nessa busca pelo aperfeiçoamento, escolhi a família Spring Boot em Java, juntamente com a Framework Next.js em Typescript, para criar aplicações mais interativas e envolventes para os usuários finais. Além disso, trago valiosa experiência no desenvolvimento com a linguagem Ruby, com foco especial na framework Ruby on Rails.
+Meu nome é Alfredo Gabriel, formado em Ciência da Computação, fanático por tecnologia e apaixonado pelo desenvolvimento de aplicações. Desde 2019, tenho dedicado minha jornada ao aprendizado e ao desenvolvimento de uma ampla gama de projetos. Recentemente, encontrei uma área que verdadeiramente me encanta: Microsserviços. Nessa busca pelo aperfeiçoamento, escolhi a família Spring Boot em Java, juntamente com a Framework Next.js em Typescript, para criar aplicações mais interativas e envolventes para os usuários finais. Além disso, trago valiosa experiência no desenvolvimento com a linguagem Ruby, com foco especial na framework Ruby on Rails.
 
 
 <p align="center">
